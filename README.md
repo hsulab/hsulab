@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 
 # Jiayan Xu 👋
 ## Education
-- Ph.D. in Theoretical Catalysis, Queen's University Belfast 
-- B.Eng. and B.Sc., East China University of Science and Technology
+- Queen's University Belfast 
+
+  Ph.D. in Theoretical Catalysis (Expected)
+  
+- East China University of Science and Technology
+
+  B.Eng. in Applied Chemistry
+  
+  B.Sc. in Mathematics and Applied Mathematics
