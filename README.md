@@ -13,14 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jiayan Xu 👋
+# Jiayan Xu 🤯
+
+## Work
+
+2023 - Present; Princeton, USA
+
+- **Princeton University**
+
+  Postdoc in Department of Chemistry
+
 ## Education
-- Queen's University Belfast 
 
-  Ph.D. in Theoretical Catalysis (Expected)
-  
-- East China University of Science and Technology
+2019 - 2023; Belfast, UK
+-   **Queen's University Belfast**
 
-  B.Eng. in Applied Chemistry
+    Ph.D. in Theoretical Chemistry
+
+    *Towards Real Dynamics in Heterogeneous Catalysis using Machine Learning Interatomic Potential Simulations*
+
+2015 - 2019; Shanghai, China
+
+-   **East China University of Science and Technology**
+
+    B.Eng. in Applied Chemistry
   
-  B.Sc. in Mathematics and Applied Mathematics
+    B.Sc.  in Mathematics and Applied Mathematics
+
+
