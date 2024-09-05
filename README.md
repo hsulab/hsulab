@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jiayan Xu 🤯
+# 🤯 Jiayan Xu 🤯
 
-## Work
+## Appointment
 
 2023 - Present; Princeton, USA
 
